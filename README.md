@@ -24,7 +24,7 @@
 
 解析二维码的结果如下：
 
-![analysis· result](pics/analysis· result.PNG)
+![analysis result](pics/analysis result.PNG)
 
 其他的两种方式生成二维码：
 
